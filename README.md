@@ -32,4 +32,6 @@ La solución aborda dos paradigmas fundamentales del procesamiento distribuido:
 │   ├── analisis_batch.py                    # Script de procesamiento batch y limpieza en PySpark
 │   ├── kafka_producer.py                    # Productor de eventos en tiempo real hacia Kafka
 │   └── spark_streaming_consumer.py          # Consumidor de Spark Structured Streaming
+├── docs/
+│   └── grafico_presion_departamentos.png    # Visualización de presión promedio por departamento
 └── README.md                                # Documentación principal del proyecto
