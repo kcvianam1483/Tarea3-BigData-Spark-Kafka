@@ -27,6 +27,7 @@ La solución aborda dos paradigmas fundamentales del procesamiento distribuido:
 ---
 
 ## 📁 Estructura del Repositorio
+```text
 ├── scripts/
 │   ├── analisis_batch.py                    # Script de procesamiento batch y limpieza en PySpark
 │   ├── kafka_producer.py                    # Productor de eventos en tiempo real hacia Kafka
